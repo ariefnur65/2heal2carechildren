@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menyangkal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.co.blogspot.blogmozink.a2heal2carechildren.menyangkal">
+
+    <TextView
+        android:text="@string/ciriMenyangkal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView2"
+        android:textSize="28sp"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorPrimary" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:text="@string/menyangkal1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textMenyangkalgo1"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:textStyle="normal|bold"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/imageView3"
+                android:layout_toEndOf="@+id/imageView3" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                app:srcCompat="?android:attr/alertDialogIcon"
+                android:id="@+id/imageView3"
+                android:layout_alignTop="@+id/textMenyangkalgo1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:text="@string/menyangkal2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textMenyangkalgo2"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_centerInParent="true"
+                android:textStyle="normal|bold"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/alert2"
+                android:layout_toEndOf="@+id/alert2" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                app:srcCompat="?android:attr/alertDialogIcon"
+                android:id="@+id/alert2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:text="@string/menyangkal3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textMenyangkalgo3"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_centerInParent="true"
+                android:textStyle="normal|bold"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/alert3"
+                android:layout_toEndOf="@+id/alert3" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                app:srcCompat="?android:attr/alertDialogIcon"
+                android:id="@+id/alert3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:text="@string/menyangkal4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textMenyangkalgo4"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_centerInParent="true"
+                android:textStyle="normal|bold"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/alert4"
+                android:layout_toEndOf="@+id/alert4" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                app:srcCompat="?android:attr/alertDialogIcon"
+                android:id="@+id/alert4"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:text="@string/menyangkal5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textMenyangkalgo5"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_centerInParent="true"
+                android:textStyle="normal|bold"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/alert5"
+                android:layout_toEndOf="@+id/alert5" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                app:srcCompat="?android:attr/alertDialogIcon"
+                android:id="@+id/alert5"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <Button
+            android:text="Tidak Ada Gejala"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_tdkadagejala1"
+            android:layout_weight="0.49"
+            android:background="@color/colorPrimary"
+            android:layout_marginRight="10dp"
+            android:textSize="18sp" />
+
+        <Button
+            android:text="Ada Gejala"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_adaGejala1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</RelativeLayout>

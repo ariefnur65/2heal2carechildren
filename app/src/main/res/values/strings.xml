@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">2Gether</string>
+    <string name="btn_idn">Kenali Gejala</string>
+    <string name="btn_eduk">Jendela Ilmu</string>
+    <string name="btn_laporKonselor">Buku Kontak</string>
+    <string name="btn_komunikasi">Kunci Sukses Komunikasi</string>
+    <string name="btn_telpon">Telfon Darurat</string>
+    <string name="descDampak">nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/n</string>
+    <string name="btn_send">Identifikasi</string>
+    <string name="welcomeSplash">Selamat Datang</string>
+    <string name="splashText1">“Membantu jalan keluar dan memberi perhatian,</string>
+    <string name="splashText2">mendampingi proses kehilangan,</string>
+    <string name="splashText3">menemukan apa yang sedang terjadi, dirasakan dan dipikirkan,</string>
+    <string name="splashText4">mengontrol emosi dan situasi</string>
+    <string name="splashText5">pemulihan """""korban kekerasan seksual pada anak.\"</string>
+    <string name="menu_komun">Kunci Komunikasi</string>
+    <string name="kunci1">1. <b>Niatkan</b> dalam hati untuk menolong</string>
+    <string name="kunci2">2. <b>Fokuskan</b> mendengar peristiwa kekerasan seksual</string>
+    <string name="kunci3">3. Biarkan <b>korban bicara sesuai keinginannya</b></string>
+    <string name="kunci4">4. Perhatikan lingkungan sekitar! Pastikan <b>aman</b> dari bahaya lingkungan dan bising</string>
+    <string name="kunci5">5. Biarkan korban bicara dengan <b>tenang</b> dan <b>nyaman</b></string>
+    <string name="kunci6">6. <b>Dukung</b> korban untuk mengeluarakan emosi dan pikirannya</string>
+    <string name="kunci7">7. <b>Kenali</b> ciri khas di tiap tahapannya</string>
+    <string name="menuMain">Main Menu</string>
+    <string name="MenuDampak">Dampak Kekerasan Seksual</string>
+    <string name="MenuMasalah">Kenali Gejala</string>
+    <string name="tahapGejala">Berikut Tahapan Kehilangan:</string>
+    <string name="tahap1">Menyangkal</string>
+    <string name="tahap2">Marah</string>
+    <string name="tahap3">Tawar Menawar</string>
+    <string name="tahap4">Depresi</string>
+    <string name="tahap5">Penerimaan</string>
+    <string name="menuTahap1">Tahap Menyangkal</string>
+    <string name="ciriMenyangkal">Gejala Tahap Menyangkal</string>
+    <string name="menyangkal1">Korban merasa syok, kaget dan tidak percaya</string>
+    <string name="menyangkal2">Korban terlihat letih, lemah, pucat</string>
+    <string name="menyangkal3">Korban terlihat mengalami diare, mual</string>
+    <string name="menyangkal4">Korban bernafas cepat, mungkin juga terlihat tersengal</string>
+    <string name="menyangkal5">Korban menangis, gelisah, tidak tahu harus berbuat apa</string>
+    <string name="adaGejala1">Cara Cerdas Tahap Menyangkal</string>
+    <string name="cmenyangkal1">Motivasi korban untuk berbicara ketika korban siap</string>
+    <string name="cmenyangkal2">Perasaan korban butuh diperhatikan. Dengarkan dengan konsentrasi dan diam</string>
+    <string name="cmenyangkal3">Dalam percapakan dan gerak-geriknya, korban biasanya menunjukan beberapa tanda-tanda ketidakberdayaannya. Kenali tanda tanda-tanda yang menunjukkan tanda bahaya seperti menyakiti diri sendiri, memukul benda disekitarnya, menjambak-jambak rambut dll.</string>
+    <string name="cmenyangkal4">Beri dan penuhi kebutuhan dasar seperti makan, minum, mandi, berpakaian, tempat tinggal dan kebersihan diri.</string>
+    <string name="selamatMencoba">Selamat Mencoba</string>
+    <string name="konselorPop">Konselor dan Terapis</string>
+    <string name="pusatpelayanan">Pusat Pelayanan Terpadu</string>
+
+    <string-array name="kabupatenOption">
+        <item>Kota Semarang</item>
+        <item>Kabupaten Kendal</item>
+    </string-array>
+
+    <string-array name="kecamatanKendal">
+        <item>Weleri</item>
+        <item>Rowosari</item>
+        <item>Kankung</item>
+        <item>Cepiring</item>
+        <item>Gemuh</item>
+        <item>Ringinarum</item>
+        <item>Pegandon</item>
+        <item>Ngampel</item>
+    </string-array>
+<string-array name="kecamatanKosong">
+    <item>Pilih Wilayah dulu</item>
+</string-array>
+    <string-array name="kecamatanSemarang">
+        <item>Gayamsari</item>
+        <item>Bulusan</item>
+        <item>Gadjah Mungkur</item>
+    </string-array>
+
+
+    <string name="artikelJendela">
+        Tahukah Anda bahwa anak yang menjadi korban kekerasan seksual sangat menderita?
+        Bisa bayangkan masa kanak-kanak yang ceria dan indah tiba-tiba berubah hanya dengan
+        sebuah kejadian yang tidak diingikan. Tidak hanya itu, anak-anak korban kekerasan seksual
+        mengalami banyak kehilangan. Bukan hanya dari segi keperawanan bagi anak perempuan, tetapi juga kehilangan kepolosan, masa kecil yang riang, keamanan dan
+        kepercayaan, nafsu makan, dan hubungan normal dengan sosok orangtua-terutama bila
+        pelaku kekerasan berasal dari keluarga sendiri. Lebih dari itu anak-anak juga merasakan
+        kekhawatiran kehilangan masa depan. Sadarkah kalian bahwa mereka ada disekitar kita?
+
+        Ya, dalam jangka 4 tahun saja, lebih dari 21 juta anak-anak Indonesia mengalami
+        kekerasan seksual. Itu berarti dalam setahun sudah dapat memenuhi seluruh kepualauan
+        Maluku hingga Papua. Lalu, akankah kita masih diam dan tidak peduli dengan keberadaannya?
+
+
+        Mereka membutuhkan kita-sanak keluarga, guru, teman dan masyarakat- orang yang diberi keberuntungan untuk mendampingi mereka melalui masa sulit dan mengajaknya bangkit meraih masa depan. Mendampingi dan berada disisi mereka bukanlah hal yang sulit, namun juga tidak bisa seenaknya. Psikis dan persepsi yang berbeda akibat trauma membuat kita perlu untuk memahami setiap bahasa tubuhnya, melalui tanda dan gejala proses kehilangan dan berduka.
+        Siapkah Anda memulai merangkul dan membantu mereka bangkit?
+    </string>
+
+
+</resources>
